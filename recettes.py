@@ -4,6 +4,8 @@ def add_recipes(dictionnaire):
     ingrediants = input("Entrez la liste d'ingrédiants de la recette, svp séparer les ingrédiants par une ,\n").split(",")
     dictionnaire[name] = ingrediants
 
+
+
     return dictionnaire
 
 

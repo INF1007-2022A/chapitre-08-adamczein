@@ -101,6 +101,7 @@ def exercice6(file_path1, file_path2):
                 f2.write(line)
 
 
+
 if __name__ == '__main__':
     # TODO: Appelez vos fonctions ici
     exercice1("./exemple.txt", "./exemple2.txt")
